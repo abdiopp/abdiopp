@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://abdi-portfolio.web.app/static/media/my%20CV.6b3d0d04e2fa6b6fb392.pdf](https://abdi-portfolio.web.app/static/media/my%20CV.6b3d0d04e2fa6b6fb392.pdf)
 
-- ⚡ Fun fact **ChatGPT doesn't makes you developer 😂**
+- ⚡ Fun fact **ChatGPT doesn't make you developer 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
