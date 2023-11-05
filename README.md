@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Random Projects**
 
-- 🌱 I’m currently learning **TypeScript, NextJS**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **Full Stak Web APP**
+- 👯 I’m looking to collaborate on **Full Stack Web APP**
 
 - 👨‍💻 All of my projects are available at [https://abdi-portfolio.web.app/](https://abdi-portfolio.web.app/)
 
