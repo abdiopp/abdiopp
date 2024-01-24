@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abdi-portfolio.web.app/](https://abdi-portfolio.web.app/)
 
-- 💬 Ask me about **ReactJS,Google Firebase, MonoDB**
+- 💬 Ask me about **ReactJS,Google Firebase, MongoDB**
 
 - 📫 How to reach me **ginnieabdullah007@gmail.com**
 
